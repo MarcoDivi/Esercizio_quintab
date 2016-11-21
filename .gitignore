@@ -1,0 +1,11 @@
+*.exe
+*.config
+*.pdb
+*.manifest
+*.suo
+*.sdf
+*.user
+*.obj
+*.dll
+*.resources
+*.cache

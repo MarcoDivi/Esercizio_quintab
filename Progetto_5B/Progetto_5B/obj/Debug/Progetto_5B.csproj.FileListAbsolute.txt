@@ -1,1 +1,2 @@
 C:\Users\studente\Documents\Visual Studio 2015\Projects\Progetto_5B\Progetto_5B\bin\Debug\Progetto_5B.exe.config
+C:\Users\studente\Desktop\Esercizio_quintab\Progetto_5B\Progetto_5B\bin\Debug\Progetto_5B.exe.config
